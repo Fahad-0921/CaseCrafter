@@ -1,16 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './Components/Navbar';
 import Textform from './Components/Textform';
-import About from './Components/About';
+// import About from './Components/About';
 import React, { useState } from 'react';
 import Alert from './Components/Alert'
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-} from "react-router-dom";
+// import {
+//   createBrowserRouter,
+//   RouterProvider,
+//   Route,
+//   Link,
+// } from "react-router-dom";
 
 
 function App() {
